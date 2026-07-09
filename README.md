@@ -45,13 +45,13 @@ Coffee-Shop-Daily-Orders/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Coffee-Shop-Daily-Orders.git
+git clone https://github.com/sourabghosh108-cc1/Coffee-Shop-Orders.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd Coffee-Shop-Daily-Orders
+cd Coffee-Shop-Orders
 ```
 
 ---
